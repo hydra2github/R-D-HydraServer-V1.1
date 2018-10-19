@@ -4,7 +4,7 @@ Ocuco.Hydra.WebMVC21.V2     (.NET Core 2.1 + ASP.NET Core Identity)
 
 
 
-# R-D-HydraServer-V1.0
+# R-D-HydraServer-V1.1
 
 Ocuco.Hydra V1.1.sln
 

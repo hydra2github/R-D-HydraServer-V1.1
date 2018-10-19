@@ -1,0 +1,87 @@
+﻿@{
+    ViewBag.Title = "Hydra Hub";
+}
+<div class="row">
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card">
+                <div class="card-header">
+                    <img src="~/img/HydraLogo.png" class="img-fluid" />
+                </div>
+                <div class="card-body">
+                    <h3>Welcome to Hydra Hub</h3>
+                    <ul class="product-props">
+                        <li>Luxottica RXO</li>
+                        <li>Luxottica STARS</li>
+                        <li>Catalog Management</li>
+                        <li>Ocuco APIs</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <div class="btn-group">
+                        <button id="ButtonAPI" type="button" class="btn btn-primary">APIs</button>
+                        <button id="ButtonRXO" type="button" class="btn btn-primary">RXO</button>
+                        <button id="ButtonCatalog" type="button" class="btn btn-primary">Catalogues</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6 offset-md-1">
+
+        <div class="popup-form1">
+            <div class="card">
+                <div class="card-header">
+                    <img src="~/img/api.png" class="img-fluid" />
+                </div>
+                <div class="card-body">
+                    <h3>REST APIs</h3>
+                    <p>
+                        Management of Ocuco APIs
+                    </p>
+                </div>
+                <div class="card-footer">
+                    <button id="ButtonGotoSwagger" type="button" class="btn btn-success">Swagger</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="popup-form2">
+            <div class="card">
+                <div class="card-header">
+                    <img src="~/img/lux-img.jpg" class="img-fluid" />
+                </div>
+                <div class="card-body">
+                    <h3>Luxottica RXO</h3>
+                    <p>
+                        Luxottica RXO
+                    </p>
+                </div>
+                <div class="card-footer">                    
+                </div>
+            </div>
+        </div>
+
+        <div class="popup-form3">
+            <div class="card">
+                <div class="card-header">
+                    <img src="~/img/b2b-vs-b2c-e-commerce.jpg" class="img-fluid" />
+                </div>
+                <div class="card-body">
+                    <h3>B2B Catalogues management</h3>
+                    <p>
+                        Lorem ipsum
+                    </p>
+                </div>
+                <div class="card-footer">
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    @section scripts{
+        <script src="~/js/Appl/applindex.js"></script>
+    }
+</div>

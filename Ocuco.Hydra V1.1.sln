@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApps", "WebApps", "{9B3711B2-17B2-4596-8507-8F4632E59C7B}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ocuco.Hydra.WebMVC", "WebApps\Ocuco.Hydra.WebMVC\Ocuco.Hydra.WebMVC.csproj", "{95887A9C-F3FF-42CF-8172-9DB1505F6CD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ocuco.Hydra.WebMVC21", "WebApps\Ocuco.Hydra.WebMVC21\Ocuco.Hydra.WebMVC21.csproj", "{DAB321A6-C7BB-446F-848F-B32B4F39B5DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ocuco.Hydra.WebMVC21.V2", "WebApps\Ocuco.Hydra.WebMVC21.V2\Ocuco.Hydra.WebMVC21.V2.csproj", "{8B284DC7-E463-450B-990B-DAE5CFF374B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{1C43594D-F47F-41A3-A4A0-0A20C956BEA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocuco.Application.Services", "Application\Ocuco.Application.Services\Ocuco.Application.Services.csproj", "{5F1BDCEC-DA73-4D40-A631-014E35DDADAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95887A9C-F3FF-42CF-8172-9DB1505F6CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95887A9C-F3FF-42CF-8172-9DB1505F6CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95887A9C-F3FF-42CF-8172-9DB1505F6CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95887A9C-F3FF-42CF-8172-9DB1505F6CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB321A6-C7BB-446F-848F-B32B4F39B5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB321A6-C7BB-446F-848F-B32B4F39B5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB321A6-C7BB-446F-848F-B32B4F39B5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB321A6-C7BB-446F-848F-B32B4F39B5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B284DC7-E463-450B-990B-DAE5CFF374B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B284DC7-E463-450B-990B-DAE5CFF374B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B284DC7-E463-450B-990B-DAE5CFF374B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B284DC7-E463-450B-990B-DAE5CFF374B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1BDCEC-DA73-4D40-A631-014E35DDADAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1BDCEC-DA73-4D40-A631-014E35DDADAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1BDCEC-DA73-4D40-A631-014E35DDADAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1BDCEC-DA73-4D40-A631-014E35DDADAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{95887A9C-F3FF-42CF-8172-9DB1505F6CD3} = {9B3711B2-17B2-4596-8507-8F4632E59C7B}
+		{DAB321A6-C7BB-446F-848F-B32B4F39B5DE} = {9B3711B2-17B2-4596-8507-8F4632E59C7B}
+		{8B284DC7-E463-450B-990B-DAE5CFF374B2} = {9B3711B2-17B2-4596-8507-8F4632E59C7B}
+		{5F1BDCEC-DA73-4D40-A631-014E35DDADAA} = {1C43594D-F47F-41A3-A4A0-0A20C956BEA4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F47D30EA-79BC-4DBD-9F95-2FD747295751}
+	EndGlobalSection
+EndGlobal

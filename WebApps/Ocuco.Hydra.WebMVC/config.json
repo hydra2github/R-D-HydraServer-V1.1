@@ -1,0 +1,14 @@
+{
+    "Colors": {
+        "Favorite": "blue"
+    },
+    "ConnectionStrings": {
+        "HydraConnectionString": "Server=tcp:hydrahubdb.database.windows.net,1433;Initial Catalog=hydrasqldb;Persist Security Info=False;User ID=ocuco;Password=dept_star!azure1;MultipleActiveResultSets=True;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft":  "Warning"
+        }
+    }
+}

@@ -4,9 +4,9 @@ Ocuco.Hydra.WebMVC21.V2     (.NET Core 2.1 + ASP.NET Core Identity)
 
 
 
-# Project Title
+# R-D-HydraServer-V1.0
 
-One Paragraph of project description goes here
+Ocuco.Hydra V1.1.sln
 
 ## Getting Started
 

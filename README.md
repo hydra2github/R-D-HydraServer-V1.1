@@ -6,7 +6,7 @@ Ocuco.Hydra.WebMVC21.V2     (.NET Core 2.1 + ASP.NET Core Identity)
 
 # R-D-HydraServer-V1.1
 
-Ocuco.Hydra V1.1.sln
+Research & Development .NET Core solution. Contains .NET solution : Ocuco.Hydra V1.1.sln
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+git clone https://github.com/hydra2github/R-D-HydraServer-V1.1.git
 ```
 
 And repeat

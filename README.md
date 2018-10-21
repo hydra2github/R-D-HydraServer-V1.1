@@ -1,3 +1,11 @@
+![Ocuco.Hydra.Prototype logo](https://github.com/hydra2github/Ocuco.Hydra.Images/blob/master/Logos.and.images/Hydra.Hub.for.Git.backend.png)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+
+[![Release](https://img.shields.io/badge/Version-1.1-brightgreen.svg)]()
+[![Platform](https://img.shields.io/badge/platform-win--64-lightgrey.svg)]()
+
+
 # R-D-HydraServer-V1.1
 
 Research & Development .NET Core solution. 
